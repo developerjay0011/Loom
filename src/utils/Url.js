@@ -1,5 +1,5 @@
 const Api = {
-    baseUrl: "https://attandancemanagement.onrender.com/"
+    baseUrl: "http://159.89.161.44:7000/"
 }
 export default Api;
 

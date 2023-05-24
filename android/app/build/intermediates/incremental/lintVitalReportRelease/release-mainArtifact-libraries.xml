@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-restart::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-restart/android/build/.transforms/b30ddfdf32c10ad39055e92a7148531d/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-restart::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-restart/android/build/.transforms/728d1628a5e423674e89f53cb462189a/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-restart:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-restart/android/build/.transforms/b30ddfdf32c10ad39055e92a7148531d/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-restart/android/build/.transforms/728d1628a5e423674e89f53cb462189a/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -52,10 +52,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:bam.tech_react-native-image-resizer::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/@bam.tech/react-native-image-resizer/android/build/.transforms/c06a6f37cd519631f15967b35d32302c/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:bam.tech_react-native-image-resizer::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/@bam.tech/react-native-image-resizer/android/build/.transforms/59c9db1bbd73792277685eb57ceedd8e/transformed/out/jars/classes.jar"
       resolved="Shree:bam.tech_react-native-image-resizer:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/@bam.tech/react-native-image-resizer/android/build/.transforms/c06a6f37cd519631f15967b35d32302c/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/@bam.tech/react-native-image-resizer/android/build/.transforms/59c9db1bbd73792277685eb57ceedd8e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -65,10 +65,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-async-storage_async-storage::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/a6d86d4c2315ce54b93e812b9041524c/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-async-storage_async-storage::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/446fcb1b558aac521841f24d5463a37e/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-async-storage_async-storage:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/a6d86d4c2315ce54b93e812b9041524c/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/446fcb1b558aac521841f24d5463a37e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -78,10 +78,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-community_datetimepicker::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/@react-native-community/datetimepicker/android/build/.transforms/9eda3631d192db6551ef9c6a720afdc8/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-community_datetimepicker::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/@react-native-community/datetimepicker/android/build/.transforms/e818f923b2c89cab11743d7995fd052c/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-community_datetimepicker:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/@react-native-community/datetimepicker/android/build/.transforms/9eda3631d192db6551ef9c6a720afdc8/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/@react-native-community/datetimepicker/android/build/.transforms/e818f923b2c89cab11743d7995fd052c/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -91,10 +91,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-fs::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-fs/android/build/.transforms/75748f5dd4e7396c3448c61a2a9165ac/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-fs::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-fs/android/build/.transforms/0a927d217f499c7cfcc28958db5ba33d/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-fs:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-fs/android/build/.transforms/75748f5dd4e7396c3448c61a2a9165ac/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-fs/android/build/.transforms/0a927d217f499c7cfcc28958db5ba33d/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -104,10 +104,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-image-picker::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/.transforms/8153ba8dbfcd1958d9cb13fe8cb0ff75/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-image-picker::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/.transforms/7f105d4a9d05a8b95d6c7a6c70141d9c/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-image-picker:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/.transforms/8153ba8dbfcd1958d9cb13fe8cb0ff75/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/.transforms/7f105d4a9d05a8b95d6c7a6c70141d9c/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -117,10 +117,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-localization::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-localization/android/build/.transforms/1c89f41722ed6cd3b772818bf842a533/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-localization::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-localization/android/build/.transforms/a17fe8c21d5d0f8318847002264f2531/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-localization:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-localization/android/build/.transforms/1c89f41722ed6cd3b772818bf842a533/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-localization/android/build/.transforms/a17fe8c21d5d0f8318847002264f2531/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -130,10 +130,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-push-notification::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-push-notification/android/build/.transforms/982b328f7d1bdadcc2c9b738f391917a/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-push-notification::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-push-notification/android/build/.transforms/709696fa74bcd9761edb366639bb4081/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-push-notification:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-push-notification/android/build/.transforms/982b328f7d1bdadcc2c9b738f391917a/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-push-notification/android/build/.transforms/709696fa74bcd9761edb366639bb4081/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -143,10 +143,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-safe-area-context::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-safe-area-context/android/build/.transforms/21e1faf45a1a93eaee5b2591543d813a/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-safe-area-context::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-safe-area-context/android/build/.transforms/22f5008e132384b8b715c452189f671f/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-safe-area-context:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-safe-area-context/android/build/.transforms/21e1faf45a1a93eaee5b2591543d813a/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-safe-area-context/android/build/.transforms/22f5008e132384b8b715c452189f671f/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -156,10 +156,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-screens::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-screens/android/build/.transforms/d5816cd8a678c2525b237b934fc5d181/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-screens::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-screens/android/build/.transforms/76e9f6bfb05e7e2039d18f41b548ca2d/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-screens:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-screens/android/build/.transforms/d5816cd8a678c2525b237b934fc5d181/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-screens/android/build/.transforms/76e9f6bfb05e7e2039d18f41b548ca2d/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -169,10 +169,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Volumes/mac-ssd/Shrees/Shree/android@@:react-native-svg::release"
-      jars="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-svg/android/build/.transforms/9e9802fff05b0fd1e92287429ced4417/transformed/out/jars/classes.jar"
+      name="/Volumes/mac-ssd/Loom/android@@:react-native-svg::release"
+      jars="/Volumes/mac-ssd/Loom/node_modules/react-native-svg/android/build/.transforms/20580469b7eb9ac4fc9690ddba0f16a8/transformed/out/jars/classes.jar"
       resolved="Shree:react-native-svg:unspecified"
-      folder="/Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-svg/android/build/.transforms/9e9802fff05b0fd1e92287429ced4417/transformed/out"
+      folder="/Volumes/mac-ssd/Loom/node_modules/react-native-svg/android/build/.transforms/20580469b7eb9ac4fc9690ddba0f16a8/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

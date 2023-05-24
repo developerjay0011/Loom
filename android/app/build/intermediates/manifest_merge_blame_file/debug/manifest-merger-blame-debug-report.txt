@@ -9,29 +9,29 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Volumes/mac-ssd/Loom/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Volumes/mac-ssd/Loom/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:5:5-79
-13-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:5:22-76
+13-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:5:22-76
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:6:5-64
-14-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:6:22-62
+14-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:6:5-64
+14-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:6:22-62
 15    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-15-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:7:5-75
-15-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:7:22-73
+15-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:7:5-75
+15-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:7:22-73
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:8:5-80
-16-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:8:22-77
+16-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:8:5-80
+16-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:8:22-77
 17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 17-->[com.facebook.flipper:flipper:0.125.0] /Users/imac/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
 17-->[com.facebook.flipper:flipper:0.125.0] /Users/imac/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
 18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-18-->[:react-native-fs] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
-18-->[:react-native-fs] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+18-->[:react-native-fs] /Volumes/mac-ssd/Loom/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+18-->[:react-native-fs] /Volumes/mac-ssd/Loom/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 19-->[com.google.firebase:firebase-messaging:21.1.0] /Users/imac/.gradle/caches/transforms-3/e147adcc8c5a99fe69cfa4593737deac/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:22:5-79
 19-->[com.google.firebase:firebase-messaging:21.1.0] /Users/imac/.gradle/caches/transforms-3/e147adcc8c5a99fe69cfa4593737deac/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:22:22-76
@@ -96,74 +96,74 @@
 42-->[me.leolin:ShortcutBadger:1.1.22] /Users/imac/.gradle/caches/transforms-3/422777f889e82e1a35c39e2faa022820/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
 43
 44    <application
-44-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:10:5-31:19
+44-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:10:5-31:19
 45        android:name="com.shree.MainApplication"
-45-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:11:7-38
+45-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:11:7-38
 46        android:allowBackup="false"
-46-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:16:7-34
+46-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:16:7-34
 47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 47-->[androidx.core:core:1.7.0] /Users/imac/.gradle/caches/transforms-3/63a3df243d2d102452600006144a86df/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 48        android:debuggable="true"
 49        android:icon="@mipmap/ic_launcher"
-49-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:13:7-41
+49-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:13:7-41
 50        android:label="@string/app_name"
-50-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:12:7-39
+50-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:12:7-39
 51        android:roundIcon="@mipmap/ic_launcher_round"
-51-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:14:7-52
+51-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:14:7-52
 52        android:theme="@style/AppTheme"
-52-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:17:7-38
+52-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:17:7-38
 53        android:usesCleartextTraffic="true" >
-53-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:15:7-42
+53-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:15:7-42
 54        <activity
-54-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/debug/AndroidManifest.xml:11:9-111
+54-->/Volumes/mac-ssd/Loom/android/app/src/debug/AndroidManifest.xml:11:9-111
 55            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-55-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/debug/AndroidManifest.xml:11:19-83
+55-->/Volumes/mac-ssd/Loom/android/app/src/debug/AndroidManifest.xml:11:19-83
 56            android:exported="false" />
-56-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/debug/AndroidManifest.xml:11:84-108
+56-->/Volumes/mac-ssd/Loom/android/app/src/debug/AndroidManifest.xml:11:84-108
 57        <activity
-57-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:18:7-30:18
+57-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:18:7-30:18
 58            android:name="com.shree.MainActivity"
-58-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:19:9-37
+58-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:19:9-37
 59            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-59-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:21:9-118
+59-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:21:9-118
 60            android:exported="true"
-60-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:25:9-32
+60-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:25:9-32
 61            android:label="@string/app_name"
-61-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:20:9-41
+61-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:20:9-41
 62            android:launchMode="singleTask"
-62-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:22:9-40
+62-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:22:9-40
 63            android:screenOrientation="portrait"
-63-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:23:9-45
+63-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:23:9-45
 64            android:windowSoftInputMode="adjustResize" >
-64-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:24:9-51
+64-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:24:9-51
 65            <intent-filter>
-65-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:26:9-29:25
+65-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:26:9-29:25
 66                <action android:name="android.intent.action.MAIN" />
-66-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:27:13-65
-66-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:27:21-62
+66-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:27:13-65
+66-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:27:21-62
 67
 68                <category android:name="android.intent.category.LAUNCHER" />
-68-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:28:13-73
-68-->/Volumes/mac-ssd/Shrees/Shree/android/app/src/main/AndroidManifest.xml:28:23-70
+68-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:28:13-73
+68-->/Volumes/mac-ssd/Loom/android/app/src/main/AndroidManifest.xml:28:23-70
 69            </intent-filter>
 70        </activity>
 71
 72        <provider
-72-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+72-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 73            android:name="com.imagepicker.ImagePickerProvider"
-73-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+73-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 74            android:authorities="com.shree.imagepickerprovider"
-74-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+74-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 75            android:exported="false"
-75-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+75-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 76            android:grantUriPermissions="true" >
-76-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+76-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 77            <meta-data
-77-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+77-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
 78                android:name="android.support.FILE_PROVIDER_PATHS"
-78-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+78-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 79                android:resource="@xml/imagepicker_provider_paths" />
-79-->[:react-native-image-picker] /Volumes/mac-ssd/Shrees/Shree/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+79-->[:react-native-image-picker] /Volumes/mac-ssd/Loom/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
 80        </provider>
 81
 82        <receiver

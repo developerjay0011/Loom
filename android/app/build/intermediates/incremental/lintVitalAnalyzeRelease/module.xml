@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Volumes/mac-ssd/Shrees/Shree/android/app"
+    dir="/Volumes/mac-ssd/Loom/android/app"
     name=":app"
     type="APP"
     maven="Shree:app:"

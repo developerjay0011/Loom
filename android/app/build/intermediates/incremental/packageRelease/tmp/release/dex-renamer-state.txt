@@ -1,7 +1,7 @@
-#Wed Mar 29 12:07:02 IST 2023
-base.1=/Volumes/mac-ssd/Shrees/Shree/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+#Wed May 03 18:35:03 IST 2023
+base.1=/Volumes/mac-ssd/Loom/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
 path.1=classes2.dex
-base.0=/Volumes/mac-ssd/Shrees/Shree/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.0=/Volumes/mac-ssd/Loom/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
